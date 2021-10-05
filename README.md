@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi , I'm M Umar Khan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hi , I'm Umar <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <hr/>
 <h4 align="center">I'm a Python Full-stack developer. I love to learn and explore new things.</h4>
 <br>
